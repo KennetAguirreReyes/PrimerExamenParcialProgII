@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6BzmTz+kS6aXZtUl8xXqA5AAfRE+/PLLa26fHpvPTKTpTgFueN2KcnesVcf5eGBSfDv3tkdJYe8m3Je2UJl2JQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JADPA02\\source\\repos\\PrimerExamenParcial\\PrimerExamenParcial\\PrimerExamenParcial.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JADPA02\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
