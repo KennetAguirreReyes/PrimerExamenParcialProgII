@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32413.511
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimerExamenParcial", "PrimerExamenParcial\PrimerExamenParcial.csproj", "{BB6984E1-922D-4814-933C-C70F0DA408C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrimerExamenParcial", "PrimerExamenParcial\PrimerExamenParcial.csproj", "{BB6984E1-922D-4814-933C-C70F0DA408C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{C10BE6E2-30C2-4468-B730-BDBB3021BEEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{C10BE6E2-30C2-4468-B730-BDBB3021BEEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCore", "AppCore\AppCore.csproj", "{2DC8069B-0E03-4F89-A701-9C79FA39AE7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppCore", "AppCore\AppCore.csproj", "{2DC8069B-0E03-4F89-A701-9C79FA39AE7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infraestructure", "Infraestructure\Infraestructure.csproj", "{D539F450-B22B-4E10-98A4-4ED1D13C6A97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Infraestructure", "Infraestructure\Infraestructure.csproj", "{D539F450-B22B-4E10-98A4-4ED1D13C6A97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{F5CE16D5-CC35-4E1B-9A48-A2B54000F68D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{D539F450-B22B-4E10-98A4-4ED1D13C6A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D539F450-B22B-4E10-98A4-4ED1D13C6A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D539F450-B22B-4E10-98A4-4ED1D13C6A97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5CE16D5-CC35-4E1B-9A48-A2B54000F68D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5CE16D5-CC35-4E1B-9A48-A2B54000F68D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5CE16D5-CC35-4E1B-9A48-A2B54000F68D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5CE16D5-CC35-4E1B-9A48-A2B54000F68D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

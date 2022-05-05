@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "JBHJr5W0TGEq4RIr9lb4UPdeFkQzjR8ieJ6/c8dNzcvS5l2k+mRPJ31fSEE6r0UVcDKCjeQTRbQYPc0FIQh/Fw==",
+  "dgSpecHash": "NyFIkuD/1Gh8YtCkwtGxCQBd26U4RpFdBx80vETyqfN5VecFHfKpTUEdNo0jz7PPsJK3gTBJKv90uvuRaZJDUA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JADPA02\\source\\repos\\PrimerExamenParcial\\Domain\\Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Kennet Aguirre\\Desktop\\PrimerExamenParcial\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kennet Aguirre\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

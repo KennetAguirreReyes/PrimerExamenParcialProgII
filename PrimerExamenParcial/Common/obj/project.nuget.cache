@@ -1,11 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "0lYhUD24vfVUJFDC17qDuZA0yI3SWPEpdrFWwo++DpCwxYiA9L3+lFkJVZh3guYWZfNYDLtZ7XDM4tv6MMgAyg==",
+  "dgSpecHash": "rJQL1gBaVbkExgOm747maPsQfF3jV3Zct2f79y7rk0tvp5zPsflYmADp9DjVUsL6su7fr01gn8rRFSiqQ78nyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kennet Aguirre\\Desktop\\PrimerExamenParcial\\PrimerExamenParcial\\PrimerExamenParcial.csproj",
+  "projectFilePath": "C:\\Users\\Kennet Aguirre\\Desktop\\PrimerExamenParcial\\Common\\Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kennet Aguirre\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
-    "C:\\Users\\Kennet Aguirre\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\Kennet Aguirre\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
     "C:\\Users\\Kennet Aguirre\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
     "C:\\Users\\Kennet Aguirre\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",

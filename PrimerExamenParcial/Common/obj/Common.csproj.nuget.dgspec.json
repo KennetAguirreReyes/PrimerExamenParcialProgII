@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Kennet Aguirre\\Desktop\\PrimerExamenParcial\\AppCore\\AppCore.csproj": {}
+    "C:\\Users\\Kennet Aguirre\\Desktop\\PrimerExamenParcial\\Common\\Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Kennet Aguirre\\Desktop\\PrimerExamenParcial\\AppCore\\AppCore.csproj": {
+    "C:\\Users\\Kennet Aguirre\\Desktop\\PrimerExamenParcial\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Kennet Aguirre\\Desktop\\PrimerExamenParcial\\AppCore\\AppCore.csproj",
-        "projectName": "AppCore",
-        "projectPath": "C:\\Users\\Kennet Aguirre\\Desktop\\PrimerExamenParcial\\AppCore\\AppCore.csproj",
+        "projectUniqueName": "C:\\Users\\Kennet Aguirre\\Desktop\\PrimerExamenParcial\\Common\\Common.csproj",
+        "projectName": "Common",
+        "projectPath": "C:\\Users\\Kennet Aguirre\\Desktop\\PrimerExamenParcial\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\Kennet Aguirre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Kennet Aguirre\\Desktop\\PrimerExamenParcial\\AppCore\\obj\\",
+        "outputPath": "C:\\Users\\Kennet Aguirre\\Desktop\\PrimerExamenParcial\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,9 +44,9 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
-            "Newtonsoft.Json": {
+            "System.Configuration.ConfigurationManager": {
               "target": "Package",
-              "version": "[13.0.1, )"
+              "version": "[6.0.0, )"
             }
           },
           "imports": [

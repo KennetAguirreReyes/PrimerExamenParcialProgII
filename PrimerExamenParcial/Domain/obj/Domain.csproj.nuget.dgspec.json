@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\JADPA02\\source\\repos\\PrimerExamenParcial\\Domain\\Domain.csproj": {}
+    "C:\\Users\\Kennet Aguirre\\Desktop\\PrimerExamenParcial\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\JADPA02\\source\\repos\\PrimerExamenParcial\\Domain\\Domain.csproj": {
+    "C:\\Users\\Kennet Aguirre\\Desktop\\PrimerExamenParcial\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\JADPA02\\source\\repos\\PrimerExamenParcial\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Kennet Aguirre\\Desktop\\PrimerExamenParcial\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\JADPA02\\source\\repos\\PrimerExamenParcial\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\JADPA02\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\JADPA02\\source\\repos\\PrimerExamenParcial\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\Kennet Aguirre\\Desktop\\PrimerExamenParcial\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Kennet Aguirre\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kennet Aguirre\\Desktop\\PrimerExamenParcial\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\JADPA02\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kennet Aguirre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -42,6 +43,12 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -57,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.407\\RuntimeIdentifierGraph.json"
         }
       }
     }

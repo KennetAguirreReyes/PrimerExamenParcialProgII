@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "+GAcUIQ/PUyt8lT+HjbAsfNeA0WHcIf7/XetMGzwjxHBm8FQaAqJhp2kyIbKWEWzQx2wZrhUeQr22OCOd+ocOQ==",
+  "dgSpecHash": "id5YocPxNQS7zxYIgujdYwOKO71dsde2v08WTa4usCkQD+HzNIjTq8toiZZWR+WutbQz3ED6ydz1OcDbf9faRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\JADPA02\\source\\repos\\PrimerExamenParcial\\AppCore\\AppCore.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Kennet Aguirre\\Desktop\\PrimerExamenParcial\\AppCore\\AppCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kennet Aguirre\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
